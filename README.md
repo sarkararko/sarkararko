@@ -1,10 +1,30 @@
-[![MasterHead](https://res.cloudinary.com/fi4r80wz/image/upload/f_auto,q_auto/animated_w4oiov)](https://sarkararko.io)
-<h1 align="center">Hi 👋, I'm Arkoparno De Sarkar</h1>
-<h3 align="center">Passionate Full Stack Java Developer | Spring Boot • MERN Stack • REST APIs • Microservices</h3>
+[![MasterHead](https://res.cloudinary.com/fi4r80wz/image/upload/f_auto,q_auto/animated_w4oiov)](https://github.com/sarkararko)
 
+<h1 align="center">
+Hi 👋, I'm <b>Arkoparno De Sarkar</b>
+</h1>
+
+<h3 align="center">
+🚀 Java Full Stack Developer | Spring Boot | MERN Stack | REST APIs | Microservices
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;MERN+Stack+Developer;Backend+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sarkararko&label=Profile%20Views&color=00ff99&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/sarkararko?style=for-the-badge&color=00ff99"/>
+
+<img src="https://img.shields.io/github/stars/sarkararko?style=for-the-badge&color=00ff99"/>
+
+</p>
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sarkararko" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarkararko" alt="sarkararko" /></a> </p>
+---
 
 - 🔭 I’m currently working on **VORA(A Reverse Marketplace)**
 
@@ -21,20 +41,287 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DiJ9N2_pcxwsBphkYjaL9p-dui_zmmef/view?usp=drivesdk](https://drive.google.com/file/d/1DiJ9N2_pcxwsBphkYjaL9p-dui_zmmef/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am funny**
+# 🌐 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarkararko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarkararko" height="30" width="40" /></a>
+<p align="center">
+
+<a href="https://linkedin.com/in/sarkararko">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:arkaparna.ds@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://github.com/sarkararko">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/sarkararko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/sarkararko" /></a></p><br><br>
+# 💻 Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkararko&show_icons=true&locale=en&layout=compact" alt="sarkararko" /></p>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkararko&show_icons=true&locale=en" alt="sarkararko" /></p>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,postgres,docker,aws,git,github,html,css,js,bootstrap,figma,postman,linux"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkararko&" alt="sarkararko" /></p>
+</p>
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🛒 VORA
+
+### Reverse Marketplace
+
+A marketplace where buyers post product requests and sellers compete by offering the best deals.
+
+### 🚀 Tech Stack
+
+- Java
+- Spring Boot
+- React
+- MongoDB
+- REST API
+- JWT
+
+### ⭐ Features
+
+- User Authentication
+- Buyer & Seller Dashboard
+- Product Requests
+- Offer System
+- Secure REST APIs
+
+<a href="https://github.com/sarkararko/VORA">
+<img src="https://img.shields.io/badge/View_Project-00FF99?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🔐 JWT Authentication
+
+Authentication System built using Spring Boot.
+
+### 🚀 Tech Stack
+
+- Java
+- Spring Boot
+- JWT
+- MySQL
+
+### ⭐ Features
+
+- Login
+- Register
+- Role Based Access
+- JWT Tokens
+- Spring Security
+
+<a href="https://github.com/sarkararko">
+<img src="https://img.shields.io/badge/View_Project-00FF99?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📦 Inventory Management
+
+Inventory CRUD application.
+
+### Tech
+
+- Spring Boot
+- MySQL
+- REST API
+
+✔ CRUD
+
+✔ Search
+
+✔ Authentication
+
+</td>
+
+<td width="50%">
+
+## 💬 Chat Application
+
+Real-Time Chat App
+
+### Tech
+
+- React
+
+- Node
+
+- Express
+
+- MongoDB
+
+- Socket.IO
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sarkararko&theme=algolia&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=sarkararko&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkararko&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarkararko&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarkararko&theme=tokyo-night"/>
+
+</p>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarkararko/sarkararko/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+> **Note:** This will work after you set up the GitHub Action that generates the snake animation.
+
+---
+
+# 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarkararko&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarkararko&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarkararko&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarkararko&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarkararko&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+
+If you like my work, consider giving ⭐ to my repositories!
+
+</p>
+
+---
+
+<h2 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h2>
+
+<h3 align="center">
+
+💙 Code • Build • Learn • Repeat 🚀
+
+</h3>
