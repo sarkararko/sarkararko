@@ -23,10 +23,9 @@ Hi 👋, I'm <b>Arkoparno De Sarkar</b>
 <img src="https://img.shields.io/github/stars/sarkararko?style=for-the-badge&color=00ff99"/>
 
 </p>
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sarkararko" /> </p>
----
+<img align="right" alt="Programmer GIF" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on **VORA(A Reverse Marketplace)**
+- 🔭 I’m currently working on **VORA (A Reverse Marketplace)**
 
 - 🌱 I’m currently learning **Spring Boot Microservices, Docker, JWT Authentication, PostgreSQL, and AWS**
 
@@ -38,9 +37,11 @@ Hi 👋, I'm <b>Arkoparno De Sarkar</b>
 
 - 📫 How to reach me **arkaparna.ds@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DiJ9N2_pcxwsBphkYjaL9p-dui_zmmef/view?usp=drivesdk](https://drive.google.com/file/d/1DiJ9N2_pcxwsBphkYjaL9p-dui_zmmef/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DiJ9N2_pcxwsBphkYjaL9p-dui_zmmef/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am funny**
+
+---
 # 🌐 Connect With Me
 
 <p align="center">
