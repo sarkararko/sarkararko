@@ -249,23 +249,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkararko&l
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/sarkararko/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
-</a>
-
-</p>
 
 ---
 
