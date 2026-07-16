@@ -67,7 +67,13 @@ Hi 👋, I'm <b>Arkoparno De Sarkar</b>
 <a href="https://leetcode.com/u/sarkararko/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+<a href="https://vercel.com/sarkararko">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+<a href="https://arkoparno.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
 ---
