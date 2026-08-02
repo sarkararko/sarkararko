@@ -37,7 +37,7 @@ Hi 👋, I'm <b>Arkoparno De Sarkar</b>
 
 - 📫 How to reach me **arkaparna.ds@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DiJ9N2_pcxwsBphkYjaL9p-dui_zmmef/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FWma5jug7e5RCgRjzVO8Ex2cbW0rZlQ2/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
